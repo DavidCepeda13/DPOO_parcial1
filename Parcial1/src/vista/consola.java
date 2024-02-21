@@ -9,10 +9,12 @@ public class consola {
 	public static void main(String[] args) {
 		Persona sujeto;
 		
-		/*
+		
+		/* <x-------------------------------------------------------------------------------x>
 		 * Dado que el programa se diseña con fines academicos y para unico uso del pacial he 
 		 * decidido que la edad sea un atributo y no un servicio.
-		 */
+		 *///<x-----------------------------------------------------------------------------x>
+		
 		
 		System.out.println("< Calcular TBM >================================================================x>");
 		sujeto = new Mujer(10, 60, 1);
